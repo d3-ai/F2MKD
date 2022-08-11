@@ -1,0 +1,5 @@
+/data
+/exp
+/playground
+*__pycache__*
+Pipfile.lock

@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "1.8.1"
+torchvision = "0.9.1"
+flwr = "0.18.0"
+ray = "1.11.0"
+scipy = "*"
+requests = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
